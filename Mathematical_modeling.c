@@ -1,7 +1,3 @@
-需要环境：
-Windows10
-Codebloks
-源代码：
 #include "stdlib.h"
 #include "stdio.h"
 #include "malloc.h"
